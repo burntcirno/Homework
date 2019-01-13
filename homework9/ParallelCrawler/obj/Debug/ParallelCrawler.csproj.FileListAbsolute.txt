@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\bin\Debug\ParallelCrawler.exe.config
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\bin\Debug\ParallelCrawler.exe
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\bin\Debug\ParallelCrawler.pdb
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\obj\Debug\ParallelCrawler.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\obj\Debug\ParallelCrawler.exe
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\obj\Debug\ParallelCrawler.pdb
+C:\Users\jiaxy\source\repos\Crawler\ParallelCrawler\obj\Debug\ParallelCrawler.csprojAssemblyReference.cache
