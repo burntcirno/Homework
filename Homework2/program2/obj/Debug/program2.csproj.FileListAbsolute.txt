@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\Homework2\program2\bin\Debug\program2.exe.config
+C:\Users\jiaxy\source\repos\Homework2\program2\bin\Debug\program2.exe
+C:\Users\jiaxy\source\repos\Homework2\program2\bin\Debug\program2.pdb
+C:\Users\jiaxy\source\repos\Homework2\program2\obj\Debug\program2.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\Homework2\program2\obj\Debug\program2.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework2\program2\obj\Debug\program2.exe
+C:\Users\jiaxy\source\repos\Homework2\program2\obj\Debug\program2.pdb
