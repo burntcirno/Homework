@@ -1,0 +1,7 @@
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\bin\Debug\clock.exe.config
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\bin\Debug\clock.exe
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\bin\Debug\clock.pdb
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\obj\Debug\clock.csprojAssemblyReference.cache
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\obj\Debug\clock.exe
+Z:\SynologyDrive\CSharpHomeworks-master-2\Homework4\clock\obj\Debug\clock.pdb
